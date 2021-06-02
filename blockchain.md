@@ -73,6 +73,8 @@ So far, transactions on the Phantasma network are remaining at cost price -- low
 
 Not only is this kind of modern network more efficient (using literally **a billion times** less electricity) it's also much faster due to the cooperative scheduling. The performance target for the phantasma network is to cope with 5000 transactions per second, compared to the typical 1-per-second on "Proof of Work" networks.
 
+Phantasma is not the only network of this kind -- there are literally hundreds of similar blockchain systems being developed that make use of more modern research than the 1st and 2nd generation blockchains used.
+
 ## Energy use:
 
 Bitcoin's energy use is estimated at 115.84TWh ($5.8Bn worth @ 5c/kWh)
@@ -138,3 +140,5 @@ Unfortunately, that's a pretty accurate description of *some* of the ways that N
 There are wonderful sections of community supporting artists with new income streams... and there are people "selling" NFTs containing links to artwork that they didn't create. It's a messy space.
 
 So now in 2021, this weird, sometimes honest but often ill-defined to outright-scammy speculation bubble, combined with the ecological impact of Bitcoin/Etherium's Proof-of-Work industrial-scale mining operations, have been described in a lot of articles, explaining that *this phenomenon* is what an NFT is. I'd like to get pedantic and point out that an NFT is just jargon for "*a spreadsheet row with a permission system, in a community hosted database*", and that *this phenomenon* is what the highest-profile use for these spreadsheets has been for the past year is... but it may be too late for that nuance. Any mention of that tech jargon is met with instant hatred on social media now, not matter what you're using it for.
+
+If you take any discourse about NFTs and replace "NFT" with "a spreadsheet row", it all starts to sound rather silly. That's expected for a new buzzword in a controversial field... but it's reached the point where a huge amount of the internet has been educated as to what "an NFT is" as a much higher level concept/phenomenon than what the original bit of jargon was limited to. So if you are working on a project that really does just use *a spreadsheet row with a permission system, in a community hosted database*, what should we call that now?
